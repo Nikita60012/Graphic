@@ -47,11 +47,13 @@ namespace Graphic
             series.ChartType = SeriesChartType.Spline;
             series.BorderWidth = 3;
 
-            for (double x = -10; x <= 10; x += 0.01)
+            for (double x = 1; x <= 1000; x += 1)
             {
                 double y = a * Math.Sin(b * x);
                 series.Points.AddXY(x, y);
+                
             }
+            
             chart.Series.Clear();
             chart.Series.Add(series);
         }

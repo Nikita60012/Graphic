@@ -9,3 +9,13 @@ C:\Users\12\source\repos\Graphic\Graphic\obj\Debug\Graphic.csproj.GenerateResour
 C:\Users\12\source\repos\Graphic\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
 C:\Users\12\source\repos\Graphic\Graphic\obj\Debug\Graphic.exe
 C:\Users\12\source\repos\Graphic\Graphic\obj\Debug\Graphic.pdb
+D:\Users\Никита\Source\Repos\Graphic\Graphic\bin\Debug\Graphic.exe.config
+D:\Users\Никита\Source\Repos\Graphic\Graphic\bin\Debug\Graphic.exe
+D:\Users\Никита\Source\Repos\Graphic\Graphic\bin\Debug\Graphic.pdb
+D:\Users\Никита\Source\Repos\Graphic\Graphic\obj\Debug\Graphic.csproj.AssemblyReference.cache
+D:\Users\Никита\Source\Repos\Graphic\Graphic\obj\Debug\Graphic.Form1.resources
+D:\Users\Никита\Source\Repos\Graphic\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+D:\Users\Никита\Source\Repos\Graphic\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+D:\Users\Никита\Source\Repos\Graphic\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+D:\Users\Никита\Source\Repos\Graphic\Graphic\obj\Debug\Graphic.exe
+D:\Users\Никита\Source\Repos\Graphic\Graphic\obj\Debug\Graphic.pdb
